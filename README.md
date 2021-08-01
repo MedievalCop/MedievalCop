@@ -1,4 +1,4 @@
-- I hate the post office.
+
 
 <!---
 MedievalCop/MedievalCop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
